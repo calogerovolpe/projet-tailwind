@@ -1,14 +1,12 @@
---- Projet d'apprentissage : Tailwind CSS (Refonte CV) ---
+## Projet d'apprentissage : Tailwind CSS (Refonte CV)
 
 Bienvenue sur ce dépôt ! Il s'agit d'un projet "bac à sable" conçu pour expérimenter et monter en compétences sur **Tailwind CSS**.
 
----
-
-Objectif du projet ---
+## Objectif du projet
 
 L'objectif principal est de recréer l'intégralité de mon Curriculum Vitae de Développeur Front-End et UI Designer en utilisant exclusivement des classes utilitaires (l'approche _Utility-First_), et de le comparer avec ma version précédente construite en CSS traditionnel.
 
---- Pourquoi ce dépôt public ? ---
+## Pourquoi ce dépôt public ?
 
 Ce dépôt n'a pas pour vocation de présenter un projet parfait dès le premier jour. Au contraire, il est pensé pour :
 
@@ -16,16 +14,16 @@ Ce dépôt n'a pas pour vocation de présenter un projet parfait dès le premier
 - **Comparer les méthodes :** Analyser les avantages de Tailwind en termes de rapidité de développement et de maintenance par rapport au CSS classique.
 - **Pratiquer le versioning :** Utiliser Git de manière rigoureuse avec des commits sémantiques et réguliers.
 
---- Technologies utilisées ---
+## Technologies utilisées
 
 - **HTML5** (Structure sémantique)
 - **Tailwind CSS v4** (Framework CSS)
 - **Git & GitHub** (Versioning)
 
---- Statut actuel ---
+## Statut actuel
 
 **En cours de développement.** Le projet grandit pas à pas, n'hésitez pas à consulter l'historique des _commits_ pour voir l'évolution de la structure !
 
----
+Voici mon [C.V. interactif](https://calogerovolpe.github.io/projet-tailwind/src/html/cv.html) actuellement en cours de developpement.
 
 _Créé par Calogero Volpe._
